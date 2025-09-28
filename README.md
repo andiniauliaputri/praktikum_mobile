@@ -4,3 +4,4 @@
 |  2 | 04-09-2025  | 01  | Widget Row dan Column | [Modul 02](https://github.com/andiniauliaputri/modul-2) | [Laporan 02](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%202.pdf) |
 |  3 | 11-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://github.com/andiniauliaputri/modul_3) | [Laporan 03](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%203.pdf) |
 |  4 | 11-09-2025  | 02  | Widget Flexible dan Expanded | [Modul 04](https://github.com/andiniauliaputri/modul-4/tree/main/flutter_andin_4) | [Laporan 04](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%204..pdf) |
+|  5 | 11-09-2025  | 03  | Widget SizedBox, Spacer, dan Card| [Modul 05](https://github.com/andiniauliaputri/modul-5) | [Laporan 05](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%205%20mobile.pdf) |
