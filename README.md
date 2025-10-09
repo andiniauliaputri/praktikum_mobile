@@ -8,4 +8,5 @@
 |  6 | 18-09-2025  | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder| [Modul 06](https://github.com/andiniauliaputri/modul-6) | [Laporan 06](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%206%20mobile.pdf) |
 |  7 | 25-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route| [Modul 07](https://github.com/andiniauliaputri/modul-7) | [Laporan 07](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%207.pdf) |
 |  8 | 25-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Modul 08](https://github.com/andiniauliaputri/modul-8) | [Laporan 08](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%208.pdf) |
-|  9 | -  | -  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Modul 09](https://github.com/andiniauliaputri/modul-9) | [Laporan 09]() |
+|  9 | 02-10-2025  | 05  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route| [Modul 09](https://github.com/andiniauliaputri/modul-9) | [Laporan 09]() |
+| 10 | 09-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/andiniauliaputri/modul-10) | [Laporan 09]() |
