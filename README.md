@@ -12,3 +12,5 @@
 | 10 | 09-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/andiniauliaputri/modul-10) | [Laporan 10](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%2010.pdf) |
 | 11 | 16-10-2025  | 07  | Manajemen State dengan GetX | [Modul 11](https://github.com/andiniauliaputri/modul-11) | [Laporan 11](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%2011.pdf) |
 | 12 | 23-10-2025  | 08  | Ujian Tengah Semester | [UTS](https://github.com/andiniauliaputri/UTS) | [Laporan UTS](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20UTS.pdf) |
+| 13 | 06-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/andiniauliaputri/modul-12) | [Laporan 12](https://github.com/andiniauliaputri/praktikum_mobile/blob/main/laporan%20praktikum%20modul%2012.pdf) |
+
